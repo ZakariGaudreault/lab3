@@ -6,20 +6,10 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
+            Co Console.WriteLine("Hexagon!");
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Bread!");
-            Console.WriteLine("Bread!");
-            Console.WriteLine("Bread!");
-            Console.WriteLine("Bread!");
-            Console.WriteLine("Bread!");
-            Console.WriteLine("Bread!");
-            Console.WriteLine("Bread!");
-            Console.WriteLine("Bread!");
-            Console.WriteLine("Bread!");
-            Console.WriteLine("Bread!");
-            Console.WriteLine("Bread!");
-
-
-        }
+            Console.WriteLine("Hexagon!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hexagon!");        
     }
 }
